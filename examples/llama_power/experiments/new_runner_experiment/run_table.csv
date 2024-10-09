@@ -1,0 +1,4 @@
+__run_id,__done,quantization_type,avg_cpu_utilization,avg_mem_utilization,avg_cpu_power,avg_mem_power,cpu_energy_usage,mem_energy_usage,avg_gpu_power,avg_gpu_utilization,gpu_energy_usage
+run_0_repetition_0,DONE,2-bit,28.6,1.8,47.042,40.519,141.308,121.922,0,0,0.0
+run_1_repetition_0,DONE,3-bit,29.2,1.8,47.538,40.494,142.31,121.848,0,0,0.0
+run_2_repetition_0,DONE,4-bit,28.5,1.8,47.75,41.714,141.827,122.863,0,0,0.0
